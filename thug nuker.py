@@ -43,4 +43,4 @@ async def thug(ctx):
         await ctx.guild.create_role(name=RandString(), color=RandomColor())
 
 
-client.run("ODAwNzc5MDMzODMwNDkwMTQy.YAXFlw.M8GI-VyKejYPTZGtQhQ1QZH_TFw")
+client.run("TOKEN_HERE")
